@@ -1,4 +1,4 @@
-#uhhh.ai 0.1.0 
+# uhhh.ai 0.1.0 
 The first public release of uhhh.ai — the fastest way to find the word that's on the tip of
 your tongue, in any app you're typing in.
 
